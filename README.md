@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me: lmhuong711@gmail.com
-- Profile (updating)
-- Projects:
+- :dog: Profile (updating)
+- :books: Projects:
   + Funnn things: https://github.com/lmhuong711/gameee/
 
 <!--
