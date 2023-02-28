@@ -3,7 +3,7 @@
 - 📫 How to reach me: lmhuong711@gmail.com
 - :dog: Profile (updating)
 - :books: Projects:
-  + Funnn things: https://github.com/lmhuong711/gameee/
+  + Funnn things: [https://github.com/lmhuong711/gameee/](https://lmhuong711.github.io/gameee/)
 
 <!--
 **lmhuong711/lmhuong711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
