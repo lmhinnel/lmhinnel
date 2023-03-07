@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: lmhuong711@gmail.com
+- 📫 How to reach me: [email](lmhuong711@gmail.com/), [linkedin](https://www.linkedin.com/in/lmhuong711/)
 - :dog: Profile (updating)
 - :books: Projects:
   + Funnn things: [https://github.com/lmhuong711/gameee/](https://lmhuong711.github.io/gameee/)
