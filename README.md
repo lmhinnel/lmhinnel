@@ -8,6 +8,7 @@ Here are some ideas to get you started:
   - https://www.credly.com/users/lmhinnel
 - :books: Projects:
   + Funnn things: [https://github.com/lmhinnel/gameee/](https://lmhinnel.github.io/gameee/)
+  + Wear-ther forecast: [https://lmhinnel.github.io/wear-ther/](https://lmhinnel.github.io/wear-ther/)
 
 <!--
 
